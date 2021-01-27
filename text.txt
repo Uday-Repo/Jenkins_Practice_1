@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2489-6084
+
+ Directory of C:\Users\Uday\Desktop\JavaForJenkins
+
+27/01/2021  01:30 PM    <DIR>          .
+27/01/2021  01:30 PM    <DIR>          ..
+27/01/2021  01:27 PM               415 Hello.class
+27/01/2021  02:11 AM               107 Hello.java
+27/01/2021  01:30 PM                 0 text.txt
+               3 File(s)            522 bytes
+               2 Dir(s)  140,836,200,448 bytes free
